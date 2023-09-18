@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pastel Color -->
+    <color name="primary">#111111</color>
+    <color name="pastel_1">#FDDFDF</color>
+    <color name="pastel_2">#FCF7DE</color>
+    <color name="pastel_3">#DEFDE0</color>
+    <color name="pastel_4">#DEF3FD</color>
+
+    <!-- Black Shade Color -->
+    <color name="black_100">#FF111111</color>
+    <color name="black_75">#BF111111</color>
+    <color name="black_50">#80111111</color>
+    <color name="black_25">#40111111</color>
+    <color name="black_10">#1A111111</color>
+
+    <color name="white">#FFF8F8F8</color>
+
+    <color name="gray">#FFEEEEEE</color>
+
+    <color name="blue">#289AFF</color>
+</resources>

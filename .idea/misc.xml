@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/drawable/church_map_selector.xml" value="0.235" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/drawable/circle_image.xml" value="0.235" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/drawable/home_selector.xml" value="0.235" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/church_list_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/church_list_ref_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/church_vicariate_list_layout.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/details_church_layout.xml" value="0.5" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_church_info.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_church_list.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_church_map.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_churches.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_our_team.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_prayers.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_prayers_info.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_progress.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_reference.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/fragment_terms_and_condition.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/header_side_nav.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/list_item_text.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/nearby_church_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/our_team_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/prayer_list_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/layout/vicariate_list_ref_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19709277469003847" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/menu/header_side_nav.xml" value="0.19709277469003847" />
+        <entry key="..\:/AndroidProjects/VisitaTarlac/app/src/main/res/menu/side_nav_menu.xml" value="0.19709277469003847" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

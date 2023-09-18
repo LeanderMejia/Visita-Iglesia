@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Fragment.AboutFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="VISITA-TARLAC: A Comprehensive Guide for Visita Iglesia Pilgrims"
+            android:textColor="@color/black_100"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:fontFamily="@font/poppins"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:justificationMode="inter_word"
+            android:text="The main purpose of the VISITA-TARLAC mobile application is to provide a comprehensive guide for Visita Iglesia pilgrims in the Diocese of Tarlac. The application aims to address the challenges faced by devotees in locating and navigating the various churches in the area and learning about their histories and significance. By creating a convenient and accessible tool, the project hopes to enhance the pilgrims' experience. The VISITA-TARLAC mobile application will be a user-friendly app that will provide a map of the churches in the Diocese of Tarlac, highlighting their locations and providing detailed descriptions of their history, architecture, and cultural significance."
+            android:textColor="@color/black_100"
+            android:textSize="15sp"
+            app:fontFamily="@font/poppins"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.444"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:justificationMode="inter_word"
+            android:text="The application will enable pilgrims to plan their Visita Iglesia journey efficiently, saving time and energy. It will also provide a feature that allows users to customize their itinerary according to their preferences, including the number of churches they want to visit, and the time allotted for each church."
+            android:textColor="@color/black_100"
+            android:textSize="15sp"
+            app:fontFamily="@font/poppins"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

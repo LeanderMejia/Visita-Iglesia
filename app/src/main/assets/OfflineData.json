@@ -1,0 +1,1673 @@
+{
+  "listOfVicariate": [
+    {
+      "vicariateName": "Vicariate of St. Sebastian",
+      "vicariateImg": "v1",
+      "categoryName": "sebastian"
+    },
+    {
+      "vicariateName": "Vicariate of Immaculate Conception (Victoria, Tarlac)",
+      "vicariateImg": "v2",
+      "categoryName": "conception1"
+    },
+    {
+      "vicariateName": "Vicariate of St. Rosa of Lima",
+      "vicariateImg": "v3",
+      "categoryName": "rosa"
+    },
+    {
+      "vicariateName": "Vicariate of St. Michael The Archangel",
+      "vicariateImg": "v4",
+      "categoryName": "michael"
+    },
+    {
+      "vicariateName": "Vicariate of San Nicolas de Tolentino",
+      "vicariateImg": "v5",
+      "categoryName": "nicolas"
+    },
+    {
+      "vicariateName": "Vicariate of Immaculate Conception (Concepcion, Tarlac)",
+      "vicariateImg": "v6",
+      "categoryName": "conception2"
+    },
+    {
+      "vicariateName": "Vicariate of St. Catherine of Alexandria",
+      "vicariateImg": "v7",
+      "categoryName": "catherine"
+    }
+  ],
+  "sebastian": [
+    {
+      "churchName": "San Sebastian Cathedral Parish",
+      "churchAddress": "F. Tañedo Street, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThe San Sebastian Cathedral Parish is a Catholic church located in Tarlac City, Tarlac, Philippines. It was founded in 1686 and is dedicated to St. Sebastian, the patron saint of athletes and soldiers. The church's architecture features a mix of Baroque and Neoclassical styles, with its most notable feature being the bell tower that stands 54 meters tall. As one of the oldest churches in the province of Tarlac, the San Sebastian Cathedral Parish is a significant religious and historical landmark. The church has undergone several renovations and restorations throughout its history, with the most recent one being completed in 2016.",
+      "churchImg": "a1",
+      "churchInfo": [
+        "Address: F. Tañedo Street, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 1720",
+        "Titular: St. Sebastian",
+        "Feast Day: 20th day of January"
+      ]
+    },
+    {
+      "churchName": "Immaculate Conception Parish",
+      "churchAddress": "Tibag, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThe Immaculate Conception Parish in Tibag, Tarlac City, Philippines is a Catholic church founded in 1872 dedicated to the Immaculate Conception of the Blessed Virgin Mary. Its neoclassical and baroque style architecture is adorned with intricate details and is a popular pilgrimage site, hosting various religious events and celebrations throughout the year, including the Feast of the Immaculate Conception. The church is also known for its rich history, surviving various natural disasters, and undergoing several renovations and expansions, and its location in the historic town of Tibag adds to its charm and appeal.",
+      "churchImg": "a2",
+      "churchInfo": [
+        "Address: Tibag, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 1993",
+        "Titular: Immaculate Conception",
+        "Feast Day: 8th day of December"
+      ]
+    },
+    {
+      "churchName": "Immaculate Conception Parish Mababanaba",
+      "churchAddress": "Mababanaba, San Jose, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Immaculate Conception Parish is a Catholic church located in Mababanaba, Tarlac, Philippines, established in 1865 and dedicated to the Immaculate Conception of the Blessed Virgin Mary. Its neoclassical and baroque-style architecture features intricate details and decorative elements. It hosts various religious events and celebrations throughout the year and is an important cultural and historical site in Tarlac. The church has undergone several renovations and expansions, including the construction of a new bell tower in 1989. Its location along the San Jose - Mayantoc Road makes it easily accessible to visitors and locals alike, showcasing the Catholic community's enduring faith and devotion in Tarlac.\n",
+      "churchImg": "a3",
+      "churchInfo": [
+        "Address: Mababanaba, San Jose, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 1990",
+        "Titular: Immaculate Conception",
+        "Feast Day: 8th day of December"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "churchAddress": "San Vicente, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThe Our Lady of Fatima Parish is a Catholic church located in San Vicente, Tarlac City, Tarlac, Philippines. It was established in 1959 and is dedicated to Our Lady of Fatima, who is believed to have appeared to three shepherd children in Fatima, Portugal, in 1917. The church's architecture is modern, with a simple and elegant design that reflects the post-war period in which it was built. The church's most notable feature is the statue of Our Lady of Fatima that stands in front of the church, which is a popular pilgrimage site for Catholics in the region.The Our Lady of Fatima Parish hosts various religious events and celebrations throughout the year, including the Feast of Our Lady of Fatima on May 13th. The church also has an active parish community that is involved in various charitable and social programs aimed at helping the less fortunate.",
+      "churchImg": "a4",
+      "churchInfo": [
+        "Address: San Vicente, Block 7, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 1997",
+        "Titular: Our Lady of Fatima",
+        "Feast Day: 13th day of May"
+      ]
+    },
+    {
+      "churchName": "San Lorenzo Ruiz Parish",
+      "churchAddress": "Fairlane Subdivision, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThe San Lorenzo Ruiz Parish is a Catholic church located in Fairlane Subdivision, Tarlac City, Philippines. It is dedicated to Saint Lorenzo Ruiz, the first Filipino saint, who was canonized by Pope John Paul II in 1987. The church was established in 1997 and its architecture features a modern design with a unique triangular shape and a blue roof. The San Lorenzo Ruiz Parish serves as a spiritual and religious center for the local Catholic community, and it hosts various religious activities and events throughout the year, including masses, novenas, processions, and fiestas. It also offers religious education programs, social services, and outreach programs to help those in need. The church is situated in Fairlane Subdivision, a residential area in Tarlac City, and its unique architecture and striking blue roof make it a recognizable landmark in the community. Overall, the San Lorenzo Ruiz Parish is a testament to the faith and devotion of the Catholic community in Tarlac City.",
+      "churchImg": "a5",
+      "churchInfo": [
+        "Address: Fairlane Subdivision, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 2002",
+        "Titular: San Lorenzo Ruiz",
+        "Feast Day: 28th day of September"
+      ]
+    },
+    {
+      "churchName": "San Roque Parish",
+      "churchAddress": "San Roque, Tarlac City",
+      "churchDescription": "\t\t\t\t\tSan Roque Parish is a Roman Catholic church located in Tarlac City, Tarlac, Philippines. It was founded in 1952 and is dedicated to Saint Roque, the patron saint of the sick and the suffering. The church's architecture is a blend of modern and traditional styles, with a simple yet elegant facade and interior. In addition to its religious significance, the San Roque Parish is also an important cultural and historical site in Tarlac. The church has played a role in the community's social and political development, particularly during the Martial Law period in the Philippines.",
+      "churchImg": "a6",
+      "churchInfo": [
+        "Address: San Roque, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 2003",
+        "Titular: San Roque",
+        "Feast Day: 16th day of August"
+      ]
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "churchAddress": "Sto. Cristo, Tarlac City",
+      "churchDescription": "\t\t\t\t\tSto. Cristo Parish is a Roman Catholic church located in Sto. Cristo, Tarlac City, Philippines. It is dedicated to the Holy Cross of Christ and serves as a spiritual home to many local Catholics. The church's architecture features a mix of modern and traditional styles, with a simple yet elegant facade and a spacious interior. The parish was established in 1973 and has since become an important religious and cultural landmark in the area. The church hosts various religious events and celebrations throughout the year, including the Feast of the Holy Cross on September 14th.",
+      "churchImg": "a8",
+      "churchInfo": [
+        "Address: Sto. Cristo, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian"
+      ]
+    },
+    {
+      "churchName": " Monasterio de Tarlac",
+      "churchAddress": "Lubigan, San Jose Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Monasterio de Tarlac was established in 2003 as the hermitage house for five (5) monks of the Priory of the Servants of the Risen Christ (SRC), a congregation of monastic brothers (more appropriately addressed as Frater) led by its Prior, Frater Ronald Thomas Cortez, SRC or Fr. Archie to his friends.",
+      "churchImg": "a9",
+      "churchInfo": [
+        "Address: Lubigan, San Jose Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Sebastian",
+        "Established: 2003",
+        "Titular: St. Sebastian"
+      ]
+    }
+  ],
+  "conception1": [
+    {
+      "churchName": "Immaculate Conception Parish",
+      "churchAddress": "Victoria, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Immaculate Conception Parish is a Catholic church located in Victoria, Tarlac, Philippines. It was established in 1879 and is dedicated to the Immaculate Conception of the Blessed Virgin Mary. The current building features a neo-gothic style and a 42-meter-tall bell tower. The parish offers regular religious services and outreach programs for the community. Its feast day is celebrated every December 8, which is also the Feast of the Immaculate Conception, with various cultural and religious activities.",
+      "churchImg": "b1",
+      "churchInfo": [
+        "Address: Victoria, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 1772",
+        "Titular: Immaculate Conception",
+        "Feast Day: 8th day of December"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Mt. Carmel Parish",
+      "churchAddress": "Tariji, Tarlac City",
+      "churchDescription": "\t\t\t\t\tOur Lady of Mt. Carmel Parish Church is a Roman Catholic church located in Tariji, Tarlac City,\nTarlac, Philippines. The parish is dedicated to Our Lady of Mount Carmel, who is the patroness of the Carmelite Order and is believed to be a powerful intercessor for those who seek her aid.The church was established in 1962 and has undergone several renovations and improvements since then. The current church building features a modern architectural style and has a bell tower that stands at 32 meters tall. The Our Lady of Mt. Carmel Parish Church serves as a spiritual center for the Catholic community in Tariji and the surrounding areas. It offers regular masses, sacraments, and other religious services for the faithful. The parish also provides various outreach programs and social services to support the needs of the local community.",
+      "churchImg": "b2",
+      "churchInfo": [
+        "Address: Tariji, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 1993",
+        "Titular: Our Lady of Mt. Carmel Parish",
+        "Feast Day: 16th day of July"
+      ]
+    },
+    {
+      "churchName": "Shrine of Our Lady of Peace and Good Voyage Parish",
+      "churchAddress": "La Paz, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Shrine of Our Lady of Peace and Good Voyage Parish is a Roman Catholic church located in La Paz, Tarlac, Philippines. The church is dedicated to Our Lady of Peace and Good Voyage, who is the patroness of travelers and seafarers. The church was established in 1848 and has undergone several renovations and improvements since then. The current church building features a neo-gothic architectural style and has a bell tower that stands at 36 meters tall. The church celebrates its feast day every January 24, which is also the Feast of Our Lady of Peace and Good Voyage. During this time, the church holds various religious and cultural activities, including processions, novenas, and a grand fiesta celebration. The Shrine of Our Lady of Peace and Good Voyage Parish is a significant religious and cultural landmark in Tarlac, attracting visitors and devotees from different parts of the country who seek the intercession of Our Lady of Peace and Good Voyage for their safe travels and journeys.",
+      "churchImg": "b3",
+      "churchInfo": [
+        "Address: La Paz, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 1790",
+        "Titular: Our Lady of Peace and Good Voyage",
+        "Titular: Immaculate Conception",
+        "Feast Day: 24th day of January"
+      ]
+    },
+    {
+      "churchName": "St. Anthony de Padua Parish",
+      "churchAddress": "Caramutan, La Paz, Tarlac",
+      "churchDescription": "\t\t\t\t\tSt. Anthony de Padua Parish in Caramutan, La Paz, Tarlac is a Roman Catholic church dedicated to St. Anthony of Padua, a Portuguese Catholic priest and friar of the Franciscan Order, who is widely venerated as a miracle worker and patron saint of lost items.The parish church is in the town of La Paz, Tarlac, Philippines. It is a relatively small church but has a rich history and is a significant religious and cultural landmark in the area. The church is known for its annual fiesta celebration held in honor of St. Anthony de Padua. The fiesta is usually held on June 13 and is marked with a series of religious activities, including a novena, a procession, and a mass. It is also a time for socializing, feasting, and enjoying the local culture.",
+      "churchImg": "b4",
+      "churchInfo": [
+        "Address: Caramutan, La Paz Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 2012",
+        "Titular: St. Anthony de Padua",
+        "Feast Day: 13th day of January"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "churchAddress": "Maliwalo, Tarlac City",
+      "churchDescription": "\t\t\t\t\tOur Lady of Lourdes Parish is a Roman Catholic church located in Maliwalo, Tarlac City, Philippines. It is named after the apparitions of the Virgin Mary that occurred in Lourdes, France in 1858.The parish was established in 1956 and the church was built in 1962. It has since become an important religious and cultural landmark in the city of Tarlac. The church's design is a mix of modern and traditional styles, with a bell tower and a large crucifix dominating the exterior. The church is dedicated to Our Lady of Lourdes, who is believed to have appeared to a young girl named Bernadette Soubirous in the town of Lourdes, France. The Virgin Mary reportedly appeared to Bernadette 18 times, delivering messages of prayer and penance. The parish is known for its devotion to Our Lady of Lourdes and hosts a variety of religious activities throughout the year. One of the most significant events is the annual fiesta celebration in honor of the Virgin Mary, which is held on February 11.",
+      "churchImg": "b5",
+      "churchInfo": [
+        "Address: Maliwalo, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 2004",
+        "Titular: Our Lady of Lourdes",
+        "Feast Day: 11th day of February"
+      ]
+    },
+    {
+      "churchName": "St. John the Baptist Parish",
+      "churchAddress": "Palac-Palac, Victoria, Tarlac",
+      "churchDescription": "\t\t\t\t\tSt. John the Baptist Parish is a Roman Catholic church located in Palac-Palac, Victoria, Tarlac, Philippines. It is dedicated to St. John the Baptist, the prophet who baptized Jesus Christ in the Jordan River. The parish was established in 1838, making it one of the oldest parishes in the province of Tarlac. The church's architecture is a mix of Spanish colonial and modern styles, with a prominent bell tower and a spacious interior. The church is known for its annual fiesta celebration in honor of St. John the Baptist, which is held on June 24. The fiesta is marked by a series of religious activities, including a novena, a procession, and a mass. It is also a time for socializing, feasting, and enjoying the local culture.",
+      "churchImg": "b6",
+      "churchInfo": [
+        "Address: Palac-Palac, Victoria , Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 2007",
+        "Titular: St. John the Baptist"
+      ]
+    }
+  ],
+  "rosa": [
+    {
+      "churchName": "Saint Rose of Lima Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchDescription": "\t\t\t\t\tSt. Rose of Lima Parish is a Catholic church located in Paniqui, Tarlac, Philippines. The church is dedicated to Saint Rose of Lima, the first canonized saint of the Americas, who was known for her devotion to God and her compassion for the poor and sick. The St. Rose of Lima Parish in Paniqui is a historic church that dates to the Spanish colonial era. It is a beautiful and well-maintained church, with an impressive stone facade and a spacious interior. The church is a popular destination for pilgrims and tourists alike, and it is known for its vibrant religious community.",
+      "churchImg": "c1",
+      "churchInfo": [
+        "Address: Paniqui, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 1804",
+        "Titular: St. Rose of Lima",
+        "Feast Day: 23th day of August"
+      ]
+    },
+    {
+      "churchName": "Saint Raymund Nonnatus Parish",
+      "churchAddress": "Moncada, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Raymund Nonnatus Parish located in Moncada, Tarlac, Philippines. The parish is dedicated to Saint Raymund Nonnatus, the patron saint of midwives, pregnant women, and newborn babies. The parish provides various services and activities for its members, including daily Masses, sacraments, religious education, and community outreach programs. It also has different organizations and ministries for different age groups, such as youth groups, choirs, and charitable groups.",
+      "churchImg": "c2",
+      "churchInfo": [
+        "Address: Moncada, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 1804",
+        "Titular: St. Raymund Nonnatus",
+        "Feast Day: 31-Aug"
+      ]
+    },
+    {
+      "churchName": "Saint John Nepomucene Parish",
+      "churchAddress": "Anao, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Saint John Nepomucene Parish Church in Anao, Tarlac is a beautiful and historic church located in the heart of the town. The Saint John Nepomucene Parish Church in Anao, Tarlac is an important spiritual center for the local community and holds regular Masses and other religious services. Overall, the Saint John Nepomucene Parish Church in Anao, Tarlac is a charming and significant part of the town's cultural and religious heritage and is a must-visit destination for those in the history and traditions of the Philippines.",
+      "churchImg": "c3",
+      "churchInfo": [
+        "Address: Anao, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 1935",
+        "Titular: St. John Nepomucene",
+        "Feast Day: 16th day of May"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Remedies Parish",
+      "churchAddress": "San Manuel, Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of Remedies Parish Church is a Roman Catholic parish located in San Manuel, Tarlac, Philippines. The parish is dedicated to Our Lady of Remedies, the patroness of childbirth and mothers.The Our Lady of Remedies Parish Church is in Barangay San Agustin, San Manuel, Tarlac, and can be easily reached by public transportation. It is a significant landmark in the town, and its annual fiesta celebration is a popular event that draws visitors from neighboring towns and provinces.",
+      "churchImg": "c4",
+      "churchInfo": [
+        "Address: San Manuel, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 1934",
+        "Titular: Our Lady of Remedies"
+      ]
+    },
+    {
+      "churchName": "Shrine of Faustina of the Divine Mercy Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Shrine of Faustina of the Divine Mercy Parish is a Roman Catholic parish located in Paniqui, Tarlac, Philippines. The parish is dedicated to Saint Faustina Kowalska, a Polish nun who had visions of Jesus Christ and promoted the Divine Mercy devotion. The church offers various services and activities to its members, including daily Masses, sacraments, religious education, and community outreach programs. It also has different organizations and ministries for different age groups, such as youth groups, choirs, and charitable groups. The shrine features a beautiful and modern church with a unique architecture that incorporates elements of traditional Philippine and European designs. The church has a spacious interior that can accommodate thousands of people, and it is adorned with various artworks and icons that depict the Divine Mercy devotion.",
+      "churchImg": "c5",
+      "churchInfo": [
+        "Address: Paniqui, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 2003",
+        "Titular: St. Faustina Kowalska"
+      ]
+    },
+    {
+      "churchName": "Our Mother of Perpetual Help Parish",
+      "churchAddress": "Aringin, Moncada, Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Mother of Perpetual Help Parish is a Roman Catholic parish located in the city of Tarlac in the Philippines. The parish is dedicated to the Virgin Mary under the title of Our Mother of Perpetual Help, which is a popular devotion in the Catholic Church. The parish serves as a spiritual home for the local Catholic community, providing religious services and programs, as well as opportunities for worship, prayer, and fellowship. It is also a venue for various community activities and social services, such as outreach programs and charitable works. Inside the church, visitors can find a beautiful altar dedicated to Our Mother of Perpetual Help. The image of the Virgin Mary is enshrined in a large and ornate gold frame and is adorned with various flowers and candles that are offered by the faithful as a sign of devotion.",
+      "churchImg": "c6",
+      "churchInfo": [
+        "Address: Aringin, Moncada, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 2015",
+        "Titular: Our Mother of Perpetual Help"
+      ]
+    },
+    {
+      "churchName": "Saint Mother Teresa of Calcutta Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Mother Teresa of Calcutta Parish is a Catholic church located in the town of Paniqui in the province of Tarlac, Philippines. It is named after Saint Mother Teresa of Calcutta, a Catholic nun and missionary known for her work with the poor and sick in India. The parish was established on May 23, 2013, and its church was built in the modern architectural style.The Saint Mother Teresa of Calcutta Parish is a vibrant and active community of Catholics who seek to live out their faith by serving others and sharing the love of Christ.Saint Mother Teresa of Calcutta Parish is known for its active and vibrant community, and for its commitment to serving the poor and the needy in the spirit of Saint Mother Teresa's legacy. The parish is a popular destination for Catholics and visitors who come to pray and seek inspiration from the life and teachings of Saint Mother Teresa.",
+      "churchImg": "c7",
+      "churchInfo": [
+        "Address: Paniqui, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St Rose of Lima",
+        "Established: 2016",
+        "Titular: Saint Mother Teresa of Calcutta"
+      ]
+    }
+  ],
+  "michael": [
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "Camiling, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Michael the Archangel Parish in Camiling, Tarlac is a Catholic church dedicated to Saint Michael the Archangel, one of the most venerated saints in the Catholic Church. The church is in the town of Camiling in the province of Tarlac, Philippines. It also has various ministries and organizations that cater to the spiritual needs of its members, such as the choir, the youth group, and the Legion of Mary. One of the most notable features of Saint Michael the Archangel Parish is its annual fiesta celebration, which is held every September 29th in honor of the feast day of Saint Michael the Archangel. The celebration includes a procession, a solemn Mass, and other cultural and religious activities.",
+      "churchImg": "d1",
+      "churchInfo": [
+        "Address: Camiling, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1874",
+        "Titular: St. Michael the Archangel"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "churchAddress": "Sta. Ignacia, Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of Fatima Parish is a Catholic church located in the city of Tarlac in the province of Tarlac, Philippines. The church is dedicated to Our Lady of Fatima, a title given to the Virgin Mary following her apparitions to three young children in Fatima, Portugal in 1917. The altar is adorned with a statue of Our Lady of Fatima, as well as other Catholic symbols such as the crucifix and the Tabernacle. It also has various ministries and organizations that cater to the spiritual needs of its members, such as the choir, the youth group, and the Knights of Columbus. One of the most notable features of Our Lady of Fatima Parish is its annual fiesta celebration, which is held every May 13th in honor of the feast day of Our Lady of Fatima. The celebration includes a procession, a solemn Mass, and other cultural and religious activities.",
+      "churchImg": "d2",
+      "churchInfo": [
+        "Address: Sta. Ignacia, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1949",
+        "Titular: Our Lady of Fatima",
+        "Feast Day: 13th day of May"
+      ]
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "churchAddress": "Mayantoc, Tarlac",
+      "churchDescription": "\t\t\t\t\tCatholic parishes are typically local communities within the larger Catholic Church. They are usually led by a priest and provide a place for regular worship, sacramental celebrations (such as Baptism,\nConfirmation, and the Eucharist), and spiritual support for their members. Parishes may also offer various ministries and programs, such as religious education, youth groups, and charitable activities. Since Saint Joseph the Worker Parish is named after Saint Joseph, who is the patron saint of workers, it may place a particular emphasis on serving the needs of workers and their families. However, the exact mission and activities of any specific Saint Joseph the Worker Parish may vary depending on the location, traditions, and needs of the local community.",
+      "churchImg": "d3",
+      "churchInfo": [
+        "Address: Mayantoc, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1842",
+        "Titular: Saint Joseph the Worker",
+        "Feast Day: 19th day of March"
+      ]
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "churchAddress": "Burgos, Paniqui, Tarlac",
+      "churchDescription": "\t\t\t\t\tSt. John the Baptist Parish is a Roman Catholic church located in Burgos, Paniqui, 2307 Tarlac, Philippines. It is dedicated to St. John the Baptist, the prophet who baptized Jesus Christ in the Jordan River. The parish was established in 1838, making it one of the oldest parishes in the province of Tarlac. The church's architecture is a mix of Spanish colonial and modern styles, with a prominent bell tower and a spacious interior. The church is known for its annual fiesta celebration in honor of St. John the Baptist, which is held on June 24. The fiesta is marked by a series of religious activities, including a novena, a procession, and a mass. It is also a time for socializing, feasting, and enjoying the local culture.",
+      "churchImg": "d4",
+      "churchInfo": [
+        "Address: Burgos, Paniqui, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Victoria, Tarlac)",
+        "Established: 2007",
+        "Titular: St. John the Baptist"
+      ]
+    },
+    {
+      "churchName": "Saint John of the Cross Paris",
+      "churchAddress": "Pada-Pada, Sta. Ignacia, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint John of the Cross Parish is a Catholic church located in Pada Pada, Sta. Ignacia, Tarlac, Philippines. It is named after Saint John of the Cross, a Spanish mystic and Carmelite friar who is known for his contributions to Christian spirituality and his writings on the \"dark night of the soul.\" The parish was established in 1982, and the church building was completed in 1995. It is a relatively modern structure, featuring a simple yet elegant design that reflects the Carmelite tradition of simplicity and humility. Saint John of the Cross Parish is an active and vibrant community, with a strong focus on evangelization and spiritual growth. The parish offers a variety of programs and activities for its members, including Bible studies, prayer groups, and outreach ministries to the poor and marginalized.",
+      "churchImg": "d5",
+      "churchInfo": [
+        "Address: Pada-Pada, Sta. Ignacia, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 2009",
+        "Titular: Saint John of the Cross"
+      ]
+    },
+    {
+      "churchName": "Saint Jude Thaddeus Parish",
+      "churchAddress": "San Clemente, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Jude Thaddeus Parish is a Catholic church located in San Clemente, Tarlac, Philippines. It is dedicated to Saint Jude Thaddeus, one of the twelve apostles of Jesus Christ, who is known as the patron saint of desperate cases and lost causes. The parish was established in 1962, and the church building was completed in 1967. Saint Jude Thaddeus Parish is a lively and active community, with a strong devotion to its patron saint. The parish offers a variety of programs and activities for its members, including Masses, novenas, and processions in honor of Saint Jude Thaddeus. The feast day of Saint Jude Thaddeus is celebrated annually on October 28th, and it is a major event for the parish and the surrounding community. During the feast day, the church is adorned with colorful decorations, and there are various events and activities throughout the week, including a grand procession and a fiesta.",
+      "churchImg": "d6",
+      "churchInfo": [
+        "Address: San Clemente, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1962",
+        "Titular: Saint Jude Thaddeus",
+        "Feast Day: 28th day of October"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "churchAddress": "Malacampa, Camiling, Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of Guadalupe Parish is a Catholic church located in Malacampa, Camiling, Tarlac, Philippines. It is dedicated to Our Lady of Guadalupe, a title of the Virgin Mary that is associated with an apparition that occurred in Mexico in the 16th century. The parish was established in 1982, and the church building was completed in 1995.The feast day of Our Lady of Guadalupe is celebrated annually on December 12th, and it is a major event for the parish and the surrounding community. During the feast day, the church is adorned with colorful decorations, and there are various events and activities throughout the week, including a grand procession and a fiesta. You will find a warm and welcoming community that is dedicated to living out the teachings of Jesus Christ and the spirit of Our Lady of Guadalupe.",
+      "churchImg": "d7",
+      "churchInfo": [
+        "Address: Malacampa, Camiling, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1997",
+        "Titular: Our Lady of Guadalupe",
+        "Feast Day: 12th day of December"
+      ]
+    },
+    {
+      "churchName": "Saint Padre Pio of Pietrelcina Parish",
+      "churchAddress": "Cacamilingan Norte, Camiling Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Padre Pio of Pietrelcina Parish is a Catholic church located in Cacamiling, Tarlac, Philippines. It is dedicated to Saint Padre Pio, an Italian friar and mystic who is known for his stigmata and his devotion to the Eucharist. The parish was established in 1995, and the church building was completed in 2006. Saint Padre Pio of Pietrelcina Parish is an active and engaged community, with a strong devotion to its patron saint. The parish offers a variety of programs and activities for its members, including Masses, novenas, and processions in honor of Saint Padre Pio. The feast day of Saint Padre Pio is celebrated annually on September 23rd, and it is a major event for the parish and the surrounding community. During the feast day, the church is adorned with colorful decorations, and there are various events and activities throughout the week, including a grand procession and a fiesta.",
+      "churchImg": "d8",
+      "churchInfo": [
+        "Address: Cacamilingan Norte, Camiling Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 2016",
+        "Titular: Saint Padre Pio of Pietrelcina"
+      ]
+    },
+    {
+      "churchName": "Saint Pope John Paul II Parish",
+      "churchAddress": "Anolin, Camiling Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Saint Pope John Paul II Parish is a Catholic church located in Camiling, Tarlac, Philippines.\nIt was established in 2006 and is named after Pope John Paul II, who served as the head of the Catholic Church from 1978 until his death in 2005. The church serves as a place of worship for the local Catholic community and offers various sacraments, such as baptism, confirmation, marriage, and confession. It also provides religious education programs and outreach services to the surrounding area.",
+      "churchImg": "d9",
+      "churchInfo": [
+        "Address: Anolin, Camiling Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 2016",
+        "Titular: Saint Pope John Paul II"
+      ]
+    },
+    {
+      "churchName": "San Sebastian Village Parish",
+      "churchAddress": "San Sebastian Village, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThis church is dedicated to Saint Sebastian, a Christian saint and martyr who is the patron saint of athletes and soldiers. The church serves as a place of worship for the local Catholic community in San Sebastian Village and offers various sacraments, such as baptism, confirmation, marriage, and confession. It also provides religious education programs and outreach services to the surrounding area. The San Sebastian Parish Church in San Sebastian Village, Tarlac City features a simple yet elegant architecture. It has a traditional cruciform plan with a tall bell tower on its right side. The interior of the church is adorned with religious artworks and statues, and it has a high altar at the front where the Holy Eucharist is celebrated. The church celebrates its feast day every January 20th, which is the feast day of Saint Sebastian.",
+      "churchImg": "d10",
+      "churchInfo": [
+        "Address: San Sebastian Village, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1993",
+        "Titular: St. Sebastian",
+        "Feast Day: 20th day of January"
+      ]
+    },
+    {
+      "churchName": "St. Raphael the Archangel Parish",
+      "churchAddress": "San Rafael, Tarlac",
+      "churchDescription": "\t\t\t\t\tSt. Raphael the Archangel Parish is a Catholic church located in San Rafael, Tarlac, Philippines. It is named after St. Raphael the Archangel, who is known as the patron saint of travelers, the blind, and happy meetings. The church serves as a place of worship for the local Catholic community in San Rafael and offers various sacraments, such as baptism, confirmation, marriage, and confession. It also provides religious education programs and outreach services to the surrounding area. The St. Raphael the Archangel Parish Church in San Rafael, Tarlac features a modern architectural design. It has a spacious nave and a high altar at the front where the Holy Eucharist is celebrated. The church also has a statue of St. Raphael the Archangel, which is located near the entrance. The feast day of St. Raphael the Archangel is celebrated every October 24th, and it is a significant event in the church's calendar.",
+      "churchImg": "d11",
+      "churchInfo": [
+        "Address: San Rafael, 2300 Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 2005",
+        "Titular: San Rafael the Archangel"
+      ]
+    },
+    {
+      "churchName": "Mater Dolorosa Parish",
+      "churchAddress": "Dolores, Capas, Tarlac",
+      "churchDescription": "\t\t\t\t\tMater Dolorosa Parish is a beautiful Roman Catholic church located in the town of Dolores in the province of Tarlac, Philippines. The church is dedicated to Our Lady of Sorrows, also known as Mater Dolorosa, and has a long and rich history. Visitors to Mater Dolorosa Parish can participate in daily Mass and other religious services, as well as take a guided tour of the church and its historical artifacts. The church also holds special events and celebrations throughout the year, including the Feast of Our Lady of Sorrows, which is celebrated every September 15.",
+      "churchImg": "d12",
+      "churchInfo": [
+        "Address: Dolores, Capas, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "churchAddress": "Central Azucarera de Tarlac (CAT), San Miguel Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of Lourdes Parish is a Roman Catholic church located within the compound of Central Azucarera de Tarlac, a sugar mill in the town of San Miguel, Tarlac, Philippines. The church is dedicated to Our Lady of Lourdes, a title given to the Virgin Mary based on her apparitions to a young girl named Bernadette Soubirous in Lourdes, France in 1858. Visitors to Our Lady of Lourdes Parish can participate in daily Mass and other religious services, as well as take a moment of prayer and reflection in the peaceful surroundings. The church is also known for its annual fiesta, which is celebrated every February 11, the feast day of Our Lady of Lourdes.",
+      "churchImg": "d13",
+      "churchInfo": [
+        "Address: Central Azucarera de Tarlac (CAT), San Miguel Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Titular: Our Lady of Lourdes",
+        "Feast Day: 11th day of February"
+      ]
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "churchAddress": "Brgy. Burot, Tarlac City",
+      "churchDescription": "\t\t\t\t\tSto. Cristo Parish is a Roman Catholic Church located in Barangay Burot, Tarlac City,Philippines.\nThe church is dedicated to Santo Cristo or the Holy Christ and serves the spiritual needs of the local Catholic community.The parish celebrates daily Mass, regular sacraments, and other religious services throughout the year. It also holds special events and feast days, including the feast day of Santo Cristo, which is celebrated every September 14. Sto. Cristo Parish is an important religious landmark in the Barangay Burot community, providing a place of worship and spiritual nourishment for the local Catholic faithful.",
+      "churchImg": "d14",
+      "churchInfo": [
+        "Address: Brgy. Burot, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 2006",
+        "Titular: Sto. Cristo"
+      ]
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "San Miguel, Tarlac City",
+      "churchDescription": "\t\t\t\t\tIt may now seem difficult to imagine, but the barangay and parish of San Miguel in Tarlac City was once a lush jungle. Because the densely forested area was the habitat of monkeys and other wild animals, its earliest settlers opted to name it Gubat (forest).\nBut that would soon change when, according to local lore, the early settlers retrieved a piece of wood that was floating in the Alauli River. Upon coles inspection, they realized that it was no ordinary piece of lumber. Instead it was a statue of Saint Michael the Archangel, in whose honor they decided to rename their settlement. \nIn the late 1920s. Doña Luisita from Spain, for whom Hacienda Luisita was named after, donated land for a church. The completed structure was dedicated to St. Michael the Archangel on December 29, 1929.  It was declared a full parish in 1930. San Miguel celebrates the feast day of its titular patron every September 29.",
+      "churchImg": "d15",
+      "churchInfo": [
+        "Address: San Miguel, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Michael the Archangel",
+        "Established: 1930",
+        "Titular: St. Michael the Archangel"
+      ]
+    }
+  ],
+  "nicolas": [
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "churchAddress": "Capas, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe San Nicolas de Tolentino Parish in Capas, Tarlac, is one of the oldest churches in the area, with a rich history dating back to the Spanish colonial period. The church building itself features Spanish colonial architectural influences, with its distinctive facade and bell tower. The parish serves as a place of worship and spiritual guidance for the Catholic community in Capas and surrounding areas. It hosts regular Masses, sacraments, and other religious activities for the faithful. The church also plays an important role in the local community, providing charitable and social services to those in need.The San Nicolas de Tolentino Parish in Capas, Tarlac, is not only a place of worship but also a historical landmark that reflects the rich cultural heritage of the Philippines. It is a significant spiritual and cultural center for the Catholic community in the area and a place of pilgrimage for devotees of Saint Nicholas of Tolentino.",
+      "churchImg": "e1",
+      "churchInfo": [
+        "Address: Capas, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 1776",
+        "Titular: St. Nicolas of Tolentino",
+        "Feast Day: 10th day of September"
+      ]
+    },
+    {
+      "churchName": "Santo Niño Parish",
+      "churchAddress": "Bamban, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Santo Niño Parish is dedicated to the veneration of the Santo Niño, which is a representation of the Child Jesus in Catholic devotion. The parish serves as a spiritual and religious center for the Catholic community in Bamban and the surrounding areas.The church building of Santo Niño Parish in Bamban, Tarlac is a place of worship and prayer for the Catholic faithful. It is a place where religious ceremonies, such as Masses, sacraments, and other liturgical celebrations, are held. It also serves as a hub for various pastoral activities, including catechism classes, Bible studies, and charitable programs, organized by the parish community.",
+      "churchImg": "e2",
+      "churchInfo": [
+        "Address: Bamban, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 1812",
+        "Titular: Sto. Niño",
+        "Feast Day: Last Sunday of January"
+      ]
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "churchAddress": "Dap-dap Resettlement Area, Bamban Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of Guadalupe Parish in Bamban is a Catholic church located in Bamban, a municipality in the province of Tarlac, Philippines. The parish is dedicated to Our Lady of Guadalupe, who is a title of the Blessed Virgin Mary associated with the apparitions that occurred in Mexico in 1531. The parish serves as a spiritual center for the Catholic community in Bamban and surrounding areas. It provides various religious services, including daily and Sunday Masses, sacraments such as baptism, confirmation, and matrimony, as well as other pastoral programs and activities for the faithful. The devotion to Our Lady of Guadalupe is deeply rooted in the Filipino Catholic culture, and the parish in Bamban is a significant spiritual landmark for the faithful in the area. It serves as a place of prayer, worship, and community for Catholics who seek solace, guidance, and inspiration from the Blessed Virgin Mary under her title of Our Lady of Guadalupe.",
+      "churchImg": "e3",
+      "churchInfo": [
+        "Address: Dap-dap Resettlement Area, Bamban Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Titular: Our Lady of Guadalupe",
+        "Feast Day: 12th day of December"
+      ]
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "Anupul, Bamban, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Michael the Archangel Parish is a Catholic church located in Bamban, a municipality in the province of Tarlac, Philippines. The church is dedicated to Saint Michael the Archangel, who is considered as the leader of the heavenly angels and is revered as a powerful protector against evil. The parish of Saint Michael the Archangel serves as a center of worship and spiritual nourishment for the Catholic community in Bamban and its surrounding areas. It provides regular religious services such as Holy Mass, sacraments, and other liturgical celebrations. The church also offers various ministries and programs for spiritual growth, catechesis, and social outreach.",
+      "churchImg": "e4",
+      "churchInfo": [
+        "Address: Pag-asa, Bamban, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 2004",
+        "Titular: St. Michael the Archangel",
+        "Feast Day: 9th day of May"
+      ]
+    },
+    {
+      "churchName": "Saint Joseph Parish",
+      "churchAddress": "O’Donnell, Capas Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Joseph Parish is a Roman Catholic parish located in Capas, a municipality in the province of Tarlac, Philippines. The parish is dedicated to Saint Joseph, the foster father of Jesus, and serves as a place of worship and community for the Catholic faithful in Capas and its surrounding areas. The parish is known for its beautiful church, which is a landmark in the area. The church is often visited by locals and tourists alike for its historical and cultural significance. It features a distinctive architecture that combines traditional Filipino and Spanish colonial influences, with intricate carvings, stained glass windows, and other decorative elements.",
+      "churchImg": "e5",
+      "churchInfo": [
+        "Address: O’Donnell, Capas Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 1854",
+        "Titular: St. Joseph"
+      ]
+    },
+    {
+      "churchName": "Our Lady of the Most Holy Rosary Parish",
+      "churchAddress": "Cristo Rey, Capas Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of the Most Holy Rosary Parish is a Catholic church located in Capas, a town in the province of Tarlac, Philippines. The church is dedicated to the Virgin Mary under the title of Our Lady of the Most Holy Rosary, which is a popular devotion in the Catholic Church that focuses on the rosary, a set of prayers traditionally associated with the life of Jesus and Mary. Our Lady of the Most Holy Rosary Parish in Capas is likely an important center of Catholic faith and community for the residents, providing spiritual guidance, worship, and fellowship for its members. It may also be involved in outreach efforts to serve the wider community through charitable works and social programs.",
+      "churchImg": "e6",
+      "churchInfo": [
+        "Address: Cristo Rey, Capas Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 1994",
+        "Titular: Our Lady of the Most Holy Rosary",
+        "Feast Day: 7th day of October"
+      ]
+    },
+    {
+      "churchName": "St. Joseph the Patriarch Parish Church",
+      "churchAddress": "Aranguren, Capas, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Joseph the Patriarch Parish is a Roman Catholic church located in Aranguren, Capas, Tarlac, Philippines. It is dedicated to Saint Joseph, the earthly father of Jesus Christ and the patron saint of fathers, workers, and the universal Church. The church serves as the spiritual center for the local community and offers regular religious services, including daily masses and confession. Saint Joseph the Patriarch Parish in Capas Tarlac plays an important role in the religious and social life of the community, offering both spiritual guidance and opportunities for service and outreach.",
+      "churchImg": "e7",
+      "churchInfo": [
+        "Address: Aranguren, Capas, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Established: 2008",
+        "Titular: St. Joseph the Patriarch",
+        "Feast Day: 19th day of May"
+      ]
+    },
+    {
+      "churchName": "St. Joseph the worker Parish ",
+      "churchAddress": "San Jose, Capas, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Joseph the Worker Parish of the Roman Catholic Diocese of Tarlac was established on 2015 to serve the faithful in Villa San Jose, Brgy. Cut-Cut, Municipality of Capas, Province of Tarlac. The parish was founded to provide spiritual guidance and support to the local Catholic community in the area.\n\nSince its establishment, the parish has played a vital role in fostering a sense of faith and community among its members. It has been actively involved in various pastoral and charitable activities, offering sacraments, religious education, and other services to its parishioners.",
+      "churchImg": "e8",
+      "churchInfo": [
+        "Parish Priest: Rev. Fr. Romel Vergara",
+        "Address: San Jose, Capas, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: San Nicolas de Tolentino",
+        "Titular: St. Joseph the Worker"
+      ]
+    }
+  ],
+  "conception2": [
+    {
+      "churchName": "Santuario de la Inmaculada Concepcion",
+      "churchAddress": "Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Santuario de la Inmaculada Concepcion in Concepcion Tarlac is an important spiritual center for the local community, offering regular religious services such as mass and confession. The church also hosts various events and activities throughout the year, including the Feast of the Immaculate Conception on December 8. The Santuario de la Inmaculada Concepcion in Concepcion Tarlac is a beautiful and unique church that serves as a testament to the Catholic faith and its role in the community.",
+      "churchImg": "f1",
+      "churchInfo": [
+        "Address: Concepcion, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 1863",
+        "Titular: Immaculate Conception",
+        "Feast Day: 8th day of December, 24th & 25th day of April"
+      ]
+    },
+    {
+      "churchName": "Sacred Heart Parish",
+      "churchAddress": "Corazon de Jesus Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Sacred Heart Parish in Corazon de Jesus, Concepcion, Tarlac, is known for its simple yet elegant design. The church features a traditional bell tower, a spacious nave, and a beautifully designed altar with intricate details. The interior of the church is adorned with religious artworks, including statues of saints and images of the Sacred Heart of Jesus.The church plays an important role in the life of the community, providing spiritual guidance and support to its members. It is also involved in various charitable activities, such as helping the poor and supporting the education of underprivileged children.",
+      "churchImg": "f2",
+      "churchInfo": [
+        "Address: Corazon de Jesus Concepcion 2316 Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 1939",
+        "Titular: Sacred Heart of Jesus",
+        "Feast Day: 11th day of February"
+      ]
+    },
+    {
+      "churchName": "Saint Isidore the Farmer Parish",
+      "churchAddress": "Caluluan, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tSaint Isidore the Farmer Parish is a Catholic church located in Caluluan, Concepcion, Tarlac, Philippines. It is dedicated to Saint Isidore the Farmer, the patron saint of farmers, laborers, and rural communitiesThe church is an important part of the local community, particularly for farmers and rural residents who rely on Saint Isidore's intercession for a bountiful harvest and other blessings. The Feast of Saint Isidore is celebrated each year on May 15, with a procession and other festivities. Saint Isidore the Farmer Parish in Calulan, Concepcion, Tarlac, is a testament to the importance of faith in the lives of rural communities. It serves as a place of worship, community-building, and spiritual support, embodying the values and teachings of Saint Isidore and the Catholic faith",
+      "churchImg": "f3",
+      "churchInfo": [
+        "Address: Caluluan, Concepcion 2316 Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion)",
+        "Established: 1964",
+        "Titular: St. Isidore the Farmer",
+        "Feast Day: 15th day of May"
+      ]
+    },
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "churchAddress": "San Nicolas, Balas, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tSan Nicolas de Tolentino Parish is a Catholic church located in San Nicolas, Balas, Concepcion, Tarlac, Philippines. The parish is dedicated to Saint Nicholas of Tolentino, an Italian Catholic saint who lived in the 13th century. The church is a beautiful example of Spanish colonial architecture and is a popular destination for tourists and pilgrims. The parish offers regular Masses and other religious services, as well as community events and activities",
+      "churchImg": "f4",
+      "churchInfo": [
+        "Address: San Nicolas, Balas, Concepcion 2316 Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 1994",
+        "Titular: San Nicolas",
+        "Feast Day: 10th day of September"
+      ]
+    },
+    {
+      "churchName": "Nuestra Señora la Divina Pastora Parish",
+      "churchAddress": "Balutu, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tNuestra Señora La Divina Pastora Parish is a Catholic church located in Balutu, Concepcion, Tarlac, Philippines. The church is dedicated to the Divina Pastora or the Divine Shepherdess, a title of the Virgin Mary. The church is known for its beautiful interior and facade, as well as its peaceful surroundings. The parish offers regular Masses, sacraments, and other religious services to the local community. It also holds various events and activities throughout the year, including processions, feasts, and devotions to the Blessed Virgin Mary. If you are in the area, the church is definitely worth a visit.",
+      "churchImg": "f5",
+      "churchInfo": [
+        "Address: Balutu, Concepcion, 2316 Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 2006",
+        "Titular: Maria Divina Pastora"
+      ]
+    },
+    {
+      "churchName": "Our Lady of the Miraculous Medal Parish",
+      "churchAddress": "Tinang, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tOur Lady of the Miraculous Medal Parish is a Catholic church located in Tinang, Concepcion, Tarlac, Philippines. The church is named after the Miraculous Medal, a medal that was designed by Saint Catherine Labouré in 1830, which is said to bring blessings and graces to those who wear it with faith.\nThe church serves as a place of worship and spiritual guidance for the Catholic community in Tinang and surrounding areas. It offers regular masses, sacraments, and religious activities for its parishioners. The parish also runs a catechism program for children and youth to learn about the Catholic faith.",
+      "churchImg": "f6",
+      "churchInfo": [
+        "Address: Tinang, Concepcion, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 2008",
+        "Titular: Our Lady of the Miraculous Medal,",
+        "Feast Day: 27th day of November"
+      ]
+    },
+    {
+      "churchName": "Santa Rosa De Lima Parish",
+      "churchAddress": "Santa Rosa, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Santa Rosa de Lima Parish in Santa Rosa, Concepcion, Tarlac, Philippines is also a Roman Catholic parish that is dedicated to Saint Rose of Lima. The church offers various services and activities to its members, including daily Masses, sacraments, religious education, and community outreach programs. It also has different organizations and ministries for different age groups, such as youth groups, choirs, and charitable groups.\nThe Santa Rosa de Lima Parish in Santa Rosa is in Barangay Santa Rosa, Concepcion, Tarlac, and can be easily reached by public transportation. It is a significant landmark in the town, and its annual fiesta celebration in honor of Saint Rose of Lima is a popular event that draws visitors from neighboring towns and provinces.",
+      "churchImg": "f7",
+      "churchInfo": [
+        "Address: Sta. Rosa Concepcion, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 2015",
+        "Titular: St. Rose of Lima"
+      ]
+    },
+    {
+      "churchName": "Hesus Mabuting Pastol Parish",
+      "churchAddress": "Alfonso, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Hesus, Mabuting Pastol Parish Church is a Roman Catholic Church located in Alfonso, Concepcion, Tarlac. It is a relatively new church, having been established in 2003. The church's design is modern, with clean lines and minimalist details. The church is dedicated to Jesus Christ, the Good Shepherd, and is named after him. The interior of the church is spacious and airy, with large windows that let in natural light. The altar is the focal point of the church, with a large crucifix above it. The nave of the church has several pews for the congregation to sit on during mass, and there is a balcony area above the entrance where additional seating is available. The church is surrounded by well-manicured lawns and gardens, which provide a serene and peaceful atmosphere for prayer and reflection. The church also has a large outdoor area for gatherings and events.",
+      "churchImg": "f8",
+      "churchInfo": [
+        "Address: Alfonso, Concepcion, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 2015",
+        "Titular: Good Shepherd"
+      ]
+    },
+    {
+      "churchName": "Holy Cross Parish",
+      "churchAddress": "Sta. Cruz, Concepcion, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Holy Cross Parish is a Roman Catholic church located in Sta. Cruz, Concepcion, Tarlac. It serves as a spiritual center for the Catholic community in the area and offers regular masses, sacraments, and other religious activities. \n\nThe church building has a traditional Spanish colonial design with a towering bell tower and a spacious interior. It is known for its beautiful stained-glass windows that depict scenes from the life of Jesus Christ and various saints.Aside from its religious significance, the Holy Cross Parish is also a historical landmark in the area. It was established in the early 1900s and has since played a significant role in the lives of the people in Sta. Cruz, Concepcion, Tarlac.",
+      "churchImg": "f9",
+      "churchInfo": [
+        "Address: Sta. Cruz, Concepcion, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: Immaculate Conception (Concepcion, Tarlac)",
+        "Established: 2015",
+        "Titular: Holy Cross"
+      ]
+    }
+  ],
+  "catherine": [
+    {
+      "churchName": "St. Catherine of Alexandria Parish",
+      "churchAddress": "Gerona, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe St. Catherine of Alexandria Parish is a Catholic church located in Gerona, Tarlac. The church is dedicated to Saint Catherine of Alexandria, who is the patron saint of scholars and philosophers.The church has a simple yet elegant facade with a bell tower standing beside it. Inside, the church is spacious and airy with high ceilings and large windows that allow natural light to flood in. The altar is adorned with intricate carvings and statues and is the centerpiece of the church.",
+      "churchImg": "g1",
+      "churchInfo": [
+        "Address: Gerona, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria",
+        "Titular: St. Catherine of Alexandria"
+      ]
+    },
+    {
+      "churchName": "St. Antoninus Parish",
+      "churchAddress": "Poblacion 1, Pura, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Saint Antoninus Parish Church is located in Poblacion 1, Pura, Tarlac. It is a Catholic church dedicated to Saint Antoninus of Florence, an Italian Dominican friar and bishop known for his contributions to theology and canon law. The church is a modest-sized structure made of concrete and has a traditional Filipino-style façade. It has a bell tower on the left side and a spacious courtyard in front. Inside, the church has a simple yet elegant design with a high ceiling and wooden pews. The altar is adorned with images of various saints, including Saint Antoninus.",
+      "churchImg": "g2",
+      "churchInfo": [
+        "Address: Pura, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria",
+        "Titular: St. Antoninus"
+      ]
+    },
+    {
+      "churchName": "San Isidro Parish",
+      "churchAddress": "Estipona, Pura, Tarlac",
+      "churchDescription": "\t\t\t\t\tSan Isidro Labrador Parish is a Roman Catholic church located in Pura, Tarlac, Philippines. It is dedicated to Saint Isidore the Laborer, the patron saint of farmers. The church serves as a place of worship and spiritual guidance for the Catholic community in Pura and the surrounding areas. \n\nIt is also a popular destination for pilgrims and visitors who come to pay homage to the saint and offer prayers for their intentions. If you have any specific questions about the church, please let me know and I'll do my best to help you.",
+      "churchImg": "g3",
+      "churchInfo": [
+        "Address: Estipona, Pura, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria",
+        "Titular: San Isidro"
+      ]
+    },
+    {
+      "churchName": "Shrine of St. Therese of the Child Jesus",
+      "churchAddress": "Ramos, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Shrine of Saint Therese of the Child Jesus is a Catholic church located in Poblacion South, Ramos, Tarlac. The church is dedicated to Saint Therese of Lisieux, also known as the Little Flower of Jesus, who is revered for her simple and childlike faith. The church is a relatively new structure, having been built in the early 2000s. Its design is modern and minimalist, with simple lines and a light-colored façade. Inside, the church is spacious and airy, with a high ceiling and ample natural light. \t\n\nThe Shrine of Saint Therese of the Child Jesus is a popular pilgrimage site, attracting devotees from all over the country. The church has a few relics and artifacts related to Saint Therese, including a replica of her heart and a statue of the saint",
+      "churchImg": "g4",
+      "churchInfo": [
+        "Address: Ramos, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria",
+        "Titular: St. Therese of the Child Jesus"
+      ]
+    },
+    {
+      "churchName": "Shrine of St. Josemaria Escriva Parish",
+      "churchAddress": "Magaspac, Gerona, Tarlac",
+      "churchDescription": "\t\t\t\t\tThe Shrine of St. Josemaria Escriva Parish is a Catholic church located in Magaspac, Gerona, Tarlac, Philippines. It is dedicated to St. Josemaria Escriva, the founder of Opus Dei, a Catholic lay organization. The church was built to honor St. Josemaria Escriva's life and teachings, and to serve as a center of worship and spiritual growth for the local Catholic community.The church features a modern architectural design, with a spacious interior and a high ceiling that provides a sense of openness and grandeur. The altar area is adorned with intricate carvings and statues, and the stained-glass windows add a touch of color and beauty to the space.",
+      "churchImg": "g5",
+      "churchInfo": [
+        "Address: Magaspac, Gerona, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria",
+        "Titular: St. Josemaria Escriva"
+      ]
+    },
+    {
+      "churchName": "Sta. Cruz Parish",
+      "churchAddress": "Sta. Cruz, Tarlac City",
+      "churchDescription": "\t\t\t\t\tThe Sta. Cruz Parish is a Catholic church located in Tarlac City, Philippines. It is dedicated to the Holy Cross and serves as the spiritual center for the Catholic community in the area.The church features a beautiful, modern design with a spacious nave and choir loft. The altar is the centerpiece of the church, featuring a large crucifix above it and beautiful stained-glass windows on either side.\nRegular mass schedules are held throughout the week, providing opportunities for parishioners to come together in prayer and worship. The church also offers a variety of ministries and programs for individuals and families, including religious education classes, community outreach initiatives, and social events.",
+      "churchImg": "g6",
+      "churchInfo": [
+        "Address: Sta. Cruz, Tarlac City",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria"
+      ]
+    },
+    {
+      "churchName": "La Sagrada Familia Parish",
+      "churchAddress": "Sulipa, Gerona, Tarlac",
+      "churchDescription": "\t\t\t\t\tLa Sagrada Familia Parish Church is a Catholic church located in Sulipa, Gerona, Tarlac. It is dedicated to the Holy Family, Jesus, Mary, and Joseph. The church is known for its beautiful architecture, featuring a modern design with a striking bell tower that can be seen from afar. The church provides a spiritual home for the local community, offering regular masses, sacraments, and religious services. It also serves as a center for community events and gatherings, providing a space for fellowship and celebration. \t\nLa Sagrada Familia Parish is a vibrant and active parish that is committed to sharing the love of Christ and serving the needs of its members and the wider community. Its mission is to foster a deep and personal relationship with God and to promote a culture of faith, hope, and love in the lives of all who come to the church.",
+      "churchImg": "g7",
+      "churchInfo": [
+        "Address: Sulipa, Gerona, Tarlac",
+        "Archdiocese | Diocese: Diocese of Tarlac",
+        "Vicariate: St. Catherine of Alexandria"
+      ]
+    }
+  ],
+  "prayers": [
+    {
+      "prayerName": "Our Father",
+      "prayerSubtitle": "\"The Prayer Taught by Jesus\"",
+      "prayerDescription": "Our Father,\nWho art in heaven,\nhallowed be Thy name.\nThy kingdom come,\nThy will be done, on earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses\nas we forgive those who trespass against us,\nand lead us not into temptation,\nbut deliver us from evil. Amen.\n",
+      "prayerImg": "p1"
+    },
+    {
+      "prayerName": "Hail Mary",
+      "prayerSubtitle": "\"Honoring the Blessed Virgin Mary\"",
+      "prayerDescription": "Hail Mary, full of grace, the Lord is with thee.\nBlessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death. Amen.\n",
+      "prayerImg": "p2"
+    },
+    {
+      "prayerName": "Glory Be",
+      "prayerSubtitle": "\"Praise and Adoration to the Holy Trinity\"",
+      "prayerDescription": "Glory be to the Father,\nand to the Son,\nand to the Holy Spirit,\nas it was in the beginning,\nis now, and ever shall be,\nworld without end. Amen.\n",
+      "prayerImg": "p3"
+    },
+    {
+      "prayerName": "The Apostle's Creed",
+      "prayerSubtitle": "\"Profession of Christian Faith\"",
+      "prayerDescription": "I believe in God,\nthe Father Almighty,\nCreator of Heaven and earth;\nand in Jesus Christ, His only Son, Our Lord,\nWho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died, and was buried.\nHe descended into Hell,\non the third day He arose again from the dead.\nHe ascended into Heaven,\nand is seated at the right hand of\nGod the Father Almighty;\nfrom thence He shall come to judge\nthe living and the dead.\nI believe in the Holy Spirit,\nthe holy Catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand the life everlasting. Amen.\n",
+      "prayerImg": "p4"
+    },
+    {
+      "prayerName": "Hail Holy Queen",
+      "prayerSubtitle": "\"Marian Prayer of Supplication and Honor\"",
+      "prayerDescription": "Hail, Holy Queen, Mother of mercy,\nour life, our sweetness and our hope.\nTo thee do we cry,\npoor banished children of Eve:\nto thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us,\nand after this our exile,\nshow unto us the blessed\nfruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary!\nPray for us, O holy Mother of God,\nthat we may be made worthy\nof the promises of Christ. Amen.\n",
+      "prayerImg": "p5"
+    },
+    {
+      "prayerName": "Anima Christi",
+      "prayerSubtitle": "\"A Soul's Prayer to Christ\"",
+      "prayerDescription": "Soul of Christ, sanctify me,\nBody of Christ, save me,\nBlood of Christ, inebriate me,\nWater from the side of Christ, wash me,\nPassion of Christ, strengthen me,\nO good Jesus, hear me.\nHide me within your wounds,\nkeep me close to you,\ndefend me from the evil enemy,\ncall me at the hour of my death,\nand bid me to come to you,\nto praise you with your saints,\nforever and ever. Amen.\n",
+      "prayerImg": "p6"
+    },
+    {
+      "prayerName": "Memorare",
+      "prayerSubtitle": "\"Seeking Mary's Intercession\"",
+      "prayerDescription": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat any one who fled to thy protection,\nimplored thy help,\nor sought thy intercession,\nwas left unaided.\nInspired by this confidence,\nWe fly unto thee,\nO Virgin of virgins my Mother;\nto thee do we come, before thee we stand,\nsinful and sorrowful,\nO Mother of the Word Incarnate,\ndespise not our petitions,\nbut in thy mercy hear and answer them. Amen.\n",
+      "prayerImg": "p7"
+    },
+    {
+      "prayerName": "The Angelus",
+      "prayerSubtitle": "\"Meditation on the Incarnation\"",
+      "prayerDescription": "The Angel of the Lord declared unto Mary.\nAnd she conceived by the Holy Spirit.\nHail Mary, full of grace...\nBehold the handmaid of the Lord.\nBe it done unto me according to thy word.\nHail Mary, full of grace...\nAnd the Word was made Flesh.\nAnd dwelt among us.\nHail Mary, full of grace...\nPray for us, O Holy Mother of God,\nthat we may be made worthy of the promises of Christ.\nLet us pray. Pour forth, we beseech thee, O Lord, thy grace into our hearts, that we, to whom the Incarnation of Christ, thy son, was made known by the message of an angel, may by his passion and cross be brought to the glory of his resurrection, through the same Christ our Lord. Amen.\n",
+      "prayerImg": "p8"
+    },
+    {
+      "prayerName": "Saint Michael Prayer",
+      "prayerSubtitle": "\"Invocation for Protection and Defense\"",
+      "prayerDescription": "Saint Michael the Archangel,\ndefend us in battle.\nBe our protection against\nthe wickedness and snares of the devil.\nMay God rebuke him, we humbly pray,\nand do thou, O Prince of the heavenly host,\nby the power of God,\ncast into hell Satan and all the evil spirits\nwho prowl throughout the world\nseeking the ruin of souls. Amen.\n",
+      "prayerImg": "p9"
+    },
+    {
+      "prayerName": "Act of Contrition",
+      "prayerSubtitle": "\"Repentance and Seek for God's Forgiveness\"",
+      "prayerDescription": "O my God, I am heartfully sorry for having offended thee, and I detest all my sins because of thy just punishment, but most of all because I have offended thee my God, who is all good and deserving of all my love. I firmly resolve, with the help of thy grace, to sin no more, and to avoid the near occasion of sin. Amen.\n",
+      "prayerImg": "p10"
+    },
+    {
+      "prayerName": "Miraculous Medal Prayer",
+      "prayerSubtitle": "\"Invocation for Mary's Intercession and Protection\"",
+      "prayerDescription": "O Mary, Conceived without Sin, pray for us who have recourse to thee, and for those who do not have recourse to thee, especially the enemies of the Church. Amen.\n",
+      "prayerImg": "p11"
+    },
+    {
+      "prayerName": "Morning Offering",
+      "prayerSubtitle": "\"Consecrating the Day to God's Will\"",
+      "prayerDescription": "Dear Lord, I do not know what will happen to me today — I only know that nothing will happen that was not foreseen by you and directed to my greater good from all eternity. I adore your holy and unfathomable plans, and submit to them with all my heart for love of you, the pope, and the Immaculate Heart of Mary. Amen.\n",
+      "prayerImg": "p12"
+    },
+    {
+      "prayerName": "Guardian Angel Prayer",
+      "prayerSubtitle": "\"Seeking Guidance and Protection from our Guardian Angel\"",
+      "prayerDescription": "Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. Amen.\n",
+      "prayerImg": "p13"
+    },
+    {
+      "prayerName": "Prayer of Surrender",
+      "prayerSubtitle": "\"Yielding to God's Will and Trusting His Plan\"",
+      "prayerDescription": "Lord Jesus Christ, take all my freedom, my understanding, and my will. All that I have and cherish you have given to me. I surrender it all to be guided by your will. Your love and your grace are wealth enough for me. Give me these, Lord Jesus, and I ask for nothing more. Amen.\n",
+      "prayerImg": "p14"
+    },
+    {
+      "prayerName": "Grace Before Meals",
+      "prayerSubtitle": "\"Offering Gratitude and Seeking Blessings\"",
+      "prayerDescription": "Bless us, O Lord, and these thy gifts, which we are about to receive, from thy bounty, through Christ our Lord. Amen.\n",
+      "prayerImg": "p15"
+    },
+    {
+      "prayerName": "Grace After Meals",
+      "prayerSubtitle": "\"Expressing Gratitude for Sustenance\"",
+      "prayerDescription": "We give thee thanks for all thy benefits, O Almighty God, who lives and reigns, world without end. Amen.\nMay the souls of the faithful departed, through the mercy of God, rest in peace. Amen.\n",
+      "prayerImg": "p16"
+    }
+  ],
+  "ourTeam": [
+    {
+      "name": "Michael Laurente Sanalila",
+      "position": "Researcher",
+      "img": "ot2"
+    },
+    {
+      "name": "Renan Perez Angeles",
+      "position": "Researcher",
+      "img": "ot3"
+    },
+    {
+      "name": "Michael Ryan Masangkay",
+      "position": "Researcher",
+      "img": "ot4"
+    },
+    {
+      "name": "Trexie Mae Pineda Navarro",
+      "position": "Leader",
+      "img": "ot1"
+    },
+    {
+      "name": "Paulo Salas",
+      "position": "Programmer",
+      "img": "ot5"
+    }
+  ],
+  "vicariateReference": [
+    {
+      "vicariateName": "Vicariate of St. Sebastian",
+      "categoryNameReference": "sebastianReference"
+    },
+    {
+      "vicariateName": "Vicariate of Immaculate Conception",
+      "categoryNameReference": "conception1Reference"
+    },
+    {
+      "vicariateName": "Vicariate of St Rose of Lima",
+      "categoryNameReference": "rosaReference"
+    },
+    {
+      "vicariateName": "Vicariate of St. Michael the Archangel",
+      "categoryNameReference": "michaelReference"
+    },
+    {
+      "vicariateName": "Vicariate of San Nicolas de Tolentino",
+      "categoryNameReference": "nicolasReference"
+    },
+    {
+      "vicariateName": "Vicariate of Immaculate Conception (Concepcion, Tarlac)",
+      "categoryNameReference": "conception2Reference"
+    },
+    {
+      "vicariateName": "Vicariate of St. Catherine of Alexandria",
+      "categoryNameReference": "catherineReference"
+    }
+  ],
+  "sebastianReference": [
+    {
+      "churchName": "San Sebastian Cathedral Parish",
+      "source": "Tarlac Cathedral - Wikipedia"
+    },
+    {
+      "churchName": "Immaculate Conception",
+      "source": "https://www.facebook.com/photo/?fbid=179756701249068&set=a.179756707915734\n"
+    },
+    {
+      "churchName": "Immaculate Conception Parish Mababanaba",
+      "source": "Immaculate Conception Parish sa lungsod San Jose (worldorgs.com)"
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "source": "https://tinyurl.com/5n7xxr5u"
+    },
+    {
+      "churchName": "San Lorenzo Ruiz Paris",
+      "source": "https://www.facebook.com/photo?fbid=505870558402176&set=a.395145456141354"
+    },
+    {
+      "churchName": "San Roque Parish",
+      "source": "https://tinyurl.com/ycaktc9p"
+    },
+    {
+      "churchName": "Our Lady of Sorrows Parish",
+      "source": "Mater Dolorosa Parish (Dolores, Capas, Tarlac) - Philippine Faith and Heritage Tours"
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "source": "burot parish church - Bing images"
+    }
+  ],
+  "conception1Reference": [
+    {
+      "churchName": "Immaculate Conception Parish",
+      "source": "https://www.parishph.com/"
+    },
+    {
+      "churchName": "Our Lady of Mt. Carmel Parish",
+      "source": "https://www.parishph.com/"
+    },
+    {
+      "churchName": "Shrine of Our Lady of Peace and Good Voyage Parish",
+      "source": "https://www.flickr.com/photos/ayoungmanandhiscamera/16692383419"
+    },
+    {
+      "churchName": "St. Anthony de Padua Parish",
+      "source": "503 La Paz - Victoria Rd - Google Maps"
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "source": "https://vymaps.com/PH/OUR-LADY-OF-LOURDES-PARISH-20280/"
+    },
+    {
+      "churchName": "St. John the Baptist Parish",
+      "source": "https://bit.ly/3nnHTZN"
+    }
+  ],
+  "rosaReference": [
+    {
+      "churchName": "Saint Rose of Lima Parish",
+      "source": "st. rose of lima parish in paniqui tarlac - Bing images"
+    },
+    {
+      "churchName": "Saint Raymund Nonnatus Parish",
+      "source": "st raymund nonnatus parish moncada - Google Search"
+    },
+    {
+      "churchName": "Saint John Nepomucene Parish",
+      "source": "https://goo.gl/maps/RsWoRPHQDFMsmAtY9"
+    },
+    {
+      "churchName": "Our Lady of Remedies Parish",
+      "source": "https://rb.gy/kto7o"
+    },
+    {
+      "churchName": "Shrine of Faustina of the Divine Mercy Parish",
+      "source": "https://bit.ly/3HD0sjf"
+    },
+    {
+      "churchName": "Our Mother of Perpetual Help",
+      "source": "https://www.facebook.com/photo/?fbid=485482653614158&set=a.460576876104736"
+    },
+    {
+      "churchName": "Saint Mother Teresa of Calcutta Parish",
+      "source": "https://www.facebook.com/TeresaofCalcuttaParish/"
+    }
+  ],
+  "michaelReference": [
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "source": "https://www.flickr.com/photos/11541098@N06/9526852287"
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "source": "https://www.parishph.com/2022/07/our-lady-of-fatima-parish-sta-ignacia.html"
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "source": "https://bit.ly/41W0gUu"
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "source": "https://bit.ly/3nnHTZN"
+    },
+    {
+      "churchName": "Saint John of the Cross Paris",
+      "source": "https://bit.ly/42lU5Jm"
+    },
+    {
+      "churchName": "Saint Jude Thaddeus Parish",
+      "source": "https://www.parishph.com/2022/07/saint-jude-thaddeus-parish-san-clemente.html"
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "source": "https://bit.ly/3AOFlXp"
+    },
+    {
+      "churchName": "Saint Padre Pio of Pietrelcina Parish",
+      "source": "https://www.facebook.com/photo/?fbid=465045408985839&set=a.465045412319172"
+    },
+    {
+      "churchName": "Saint Pope John Paul II Parish",
+      "source": "Saint Pope John Paul II Parish in Anolin, Camiling Tarlac - Google Search"
+    },
+    {
+      "churchName": "San Sebastian Village Parish",
+      "source": "https://bit.ly/42jFsWL"
+    },
+    {
+      "churchName": "St. Raphael the Archangel Parish",
+      "source": "https://www.facebook.com/photo/?fbid=483407983833102&set=a.483407987166435"
+    },
+    {
+      "churchName": "Mater Dolorosa Parish",
+      "source": "https://commons.wikimedia.org/wiki/File:Mater_Dolorosa_Parish,_Capas_,Tarlac.jpg"
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "source": "https://bit.ly/3NIdzDA"
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "source": "https://tinyurl.com/3w7vbkmm"
+    }
+  ],
+  "nicolasReference": [
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "source": "https://www.parishph.com"
+    },
+    {
+      "churchName": "Santo Niño Parish",
+      "source": "https://bluedreamer27.com/bamban-church-tarlac/"
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "source": "Our Lady of Guadalupe Parish bamban - Hanapin sa Google"
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "source": "https://www.facebook.com/photo/?fbid=164528102824591&set=a.164528076157927"
+    },
+    {
+      "churchName": "Saint Joseph Parish",
+      "source": "https://www.flickr.com/photos/11541098@N06/9469154903"
+    },
+    {
+      "churchName": "Our Lady of the Most Holy Rosary Parish",
+      "source": "https://www.parishph.com/"
+    },
+    {
+      "churchName": "St. Joseph the Patriarch Parish Church",
+      "source": "https://goo.gl/maps/kMvgnQE5PQnj4dQA8\n"
+    }
+  ],
+  "conception2Reference": [
+    {
+      "churchName": "Santuario de la Inmaculada Concepcion",
+      "source": "https://www.flickr.com/photos/bigberto/2262260306"
+    },
+    {
+      "churchName": "Sacred Heart Parish",
+      "source": "https://tinyurl.com/3rwwjjm8"
+    },
+    {
+      "churchName": "Saint Isidore the Farmer Parish",
+      "source": "https://www.google.com/maps/place/St.+Isidore+Parish+Church/"
+    },
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "source": "https://www.google.com/maps/"
+    },
+    {
+      "churchName": "Nuestra Signora La Divina Pastora Parish",
+      "source": "Nuestra Senora La Divina Pastora Church - Catholic church - Concepcion, Tarlac - Zaubee"
+    },
+    {
+      "churchName": "Our Lady of the Miraculous Medal Parish",
+      "source": "https://commons.wikimedia.org/wiki/File:1121jfOur_Lady_Miraculous_Medal_Parish_Church_Concepcion,_Tarlacfvf_10.JPG"
+    },
+    {
+      "churchName": "Santa Rosa De Lima Parish",
+      "source": "bit.ly/3nsd5qG"
+    },
+    {
+      "churchName": "Hesus Mabuting Pastol Parish",
+      "source": "https://bit.ly/3LQEY52"
+    },
+    {
+      "churchName": "Holy Cross Parish",
+      "source": "Holy Cross Parish Sta. Cruz, Concepcion, Tarlac - Google Search"
+    }
+  ],
+  "catherineReference": [
+    {
+      "churchName": "St. Catherine of Alexandria Parish",
+      "source": "St. Catherine of Alexandria Parish Gerona, Tarlac - Bing images"
+    },
+    {
+      "churchName": "St. Antoninus Parish",
+      "source": "https://bit.ly/4246RMD"
+    },
+    {
+      "churchName": "San Isidro Parish",
+      "source": "St. Isidore Labrador Church - Google Maps"
+    },
+    {
+      "churchName": "Shrine of St. Therese of the Child Jesus",
+      "source": "https://tinyurl.com/4s2z6kym"
+    },
+    {
+      "churchName": "Shrine of St. Josemaria Escriva Parish",
+      "source": "https://tinyurl.com/225ydh9t"
+    },
+    {
+      "churchName": "Sta. Cruz Parish",
+      "source": "https://tinyurl.com/kp75kp99"
+    },
+    {
+      "churchName": "La Sagrada Familia Parish",
+      "source": "https://tinyurl.com/4jzzkx8w"
+    }
+  ],
+  "markers": [
+    {
+      "churchName": "San Sebastian Cathedral Parish",
+      "churchAddress": "F. Tañedo Street, Tarlac City",
+      "churchImg": "a1",
+      "latitude": 15.487739,
+      "longitude": 120.588398
+    },
+    {
+      "churchName": "Immaculate Conception Parish",
+      "churchAddress": "Tibag, Tarlac City",
+      "churchImg": "a2",
+      "latitude": 15.489173,
+      "longitude": 120.569767
+    },
+    {
+      "churchName": "Immaculate Conception Parish Mababanaba",
+      "churchAddress": "Mababanaba, San Jose, Tarlac",
+      "churchImg": "a3",
+      "latitude": 15.501572,
+      "longitude": 120.448311
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "churchAddress": "San Vicente, Tarlac City",
+      "churchImg": "a4",
+      "latitude":15.468989,
+      "longitude":120.583311
+    },
+    {
+      "churchName": "San Lorenzo Ruiz Parish",
+      "churchAddress": "Fairlane Subdivision, Tarlac City",
+      "churchImg": "a5",
+      "latitude": 15.472388,
+      "longitude": 120.588223
+    },
+    {
+      "churchName": "San Roque Parish",
+      "churchAddress": "San Roque, Tarlac City",
+      "churchImg": "a6",
+      "latitude": 15.482742,
+      "longitude":  120.591837
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "churchAddress": "Sto. Cristo, Tarlac City",
+      "churchImg": "a8",
+      "latitude": 15.488244,
+      "longitude": 120.593645
+    },
+    {
+      "churchName": " Monasterio de Tarlac",
+      "churchAddress": "Lubigan, San Jose Tarlac",
+      "churchImg": "a9",
+      "latitude": 15.436581,
+      "longitude":  120.431188
+    },
+    {
+      "churchName": "Immaculate Conception Parish",
+      "churchAddress": "Victoria, Tarlac",
+      "churchImg": "b1",
+      "latitude": 15.577636,
+      "longitude": 120.679891
+    },
+    {
+      "churchName": "Our Lady of Mt. Carmel Parish",
+      "churchAddress": "Tariji, Tarlac City",
+      "churchImg": "b2",
+      "latitude": 15.517297,
+      "longitude": 120.607079
+    },
+    {
+      "churchName": "Shrine of Our Lady of Peace and Good Voyage Parish",
+      "churchAddress": "La Paz, Tarlac",
+      "churchImg": "b3",
+      "latitude": 15.442326981638987,
+      "longitude": 120.7299096370961
+    },
+    {
+      "churchName": "St. Anthony de Padua Parish",
+      "churchAddress": "Caramutan, La Paz, Tarlac",
+      "churchImg": "b4",
+      "latitude": 15.449321,
+      "longitude": 120.717029
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "churchAddress": "Maliwalo, Tarlac City",
+      "churchImg": "b5",
+      "latitude": 15.483377,
+      "longitude": 120.619092
+    },
+    {
+      "churchName": "St. John the Baptist Parish",
+      "churchAddress": "Palac-Palac, Victoria, Tarlac",
+      "churchImg": "b6",
+      "latitude": 15.529956176413707,
+      "longitude": 120.70690376593342
+    },
+    {
+      "churchName": "Saint Rose of Lima Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchImg": "c1",
+      "latitude": 15.667288856984563,
+      "longitude": 120.57906252388283
+    },
+    {
+      "churchName": "Saint Raymund Nonnatus Parish",
+      "churchAddress": "Moncada, Tarlac",
+      "churchImg": "c2",
+      "latitude": 15.734286975130535,
+      "longitude": 120.57144637943087
+    },
+    {
+      "churchName": "Saint John Nepomucene Parish",
+      "churchAddress": "Anao, Tarlac",
+      "churchImg": "c3",
+      "latitude": 15.730702979137057,
+      "longitude": 120.6261103236087
+    },
+    {
+      "churchName": "Our Lady of Remedies Parish",
+      "churchAddress": "San Manuel, Tarlac",
+      "churchImg": "c4",
+      "latitude": 15.796823492229697,
+      "longitude": 120.60693053710325
+    },
+    {
+      "churchName": "Shrine of Faustina of the Divine Mercy Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchImg": "c5",
+      "latitude": 15.692314525612812,
+      "longitude": 120.59334039796452
+    },
+    {
+      "churchName": "Our Mother of Perpetual Help Parish",
+      "churchAddress": "Aringin, Moncada, Tarlac",
+      "churchImg": "c6",
+      "latitude": 15.500790693167616,
+      "longitude": 120.5987985264246
+    },
+    {
+      "churchName": "Saint Mother Teresa of Calcutta Parish",
+      "churchAddress": "Paniqui, Tarlac",
+      "churchImg": "c7",
+      "latitude": 15.646738560358072,
+      "longitude": 120.54883686593578
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "Camiling, Tarlac",
+      "churchImg": "d1",
+      "latitude": 15.687519364513005,
+      "longitude": 120.41265919477217
+    },
+    {
+      "churchName": "Our Lady of Fatima Parish",
+      "churchAddress": "Sta. Ignacia, Tarlac",
+      "churchImg": "d2",
+      "latitude": 15.615809841445754,
+      "longitude": 120.43780517942841
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "churchAddress": "Mayantoc, Tarlac",
+      "churchImg": "d3",
+      "latitude": 15.621843429787088,
+      "longitude": 120.37818968211522
+    },
+    {
+      "churchName": "Saint Joseph the Worker Parish",
+      "churchAddress": "Burgos, Paniqui, Tarlac",
+      "churchImg": "d4",
+      "latitude": 15.6781291,
+      "longitude": 120.4812639
+    },
+    {
+      "churchName": "Saint John of the Cross Paris",
+      "churchAddress": "Pada-Pada, Sta. Ignacia, Tarlac",
+      "churchImg": "d5",
+      "latitude": 15.557884560626517,
+      "longitude": 120.50917932799241
+    },
+    {
+      "churchName": "Saint Jude Thaddeus Parish",
+      "churchAddress": "San Clemente, Tarlac",
+      "churchImg": "d6",
+      "latitude": 15.712274215872922,
+      "longitude": 120.35947695429272
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "churchAddress": "Malacampa, Camiling, Tarlac",
+      "churchImg": "d7",
+      "latitude": 15.638531450185049,
+      "longitude": 120.41242059477115
+    },
+    {
+      "churchName": "Saint Padre Pio of Pietrelcina Parish",
+      "churchAddress": "Cacamilingan Norte, Camiling Tarlac",
+      "churchImg": "d8",
+      "latitude": 15.700562041340277,
+      "longitude": 120.41829369477246
+    },
+    {
+      "churchName": "Saint Pope John Paul II Parish",
+      "churchAddress": "Anolin, Camiling Tarlac",
+      "churchImg": "d9",
+      "latitude": 15.695658681456408,
+      "longitude": 120.40096911317607
+    },
+    {
+      "churchName": "San Sebastian Village Parish",
+      "churchAddress": "San Sebastian Village, Tarlac City",
+      "churchImg": "d10",
+      "latitude": 15.469635045941203,
+      "longitude": 120.59461779871312
+    },
+    {
+      "churchName": "St. Raphael the Archangel Parish",
+      "churchAddress": "San Rafael, Tarlac",
+      "churchImg": "d11",
+      "latitude": 15.461526809292645,
+      "longitude": 120.5983664418191
+    },
+    {
+      "churchName": "Mater Dolorosa Parish",
+      "churchAddress": "Dolores, Capas, Tarlac",
+      "churchImg": "d12",
+      "latitude": 15.365344,
+      "longitude":  120.590771
+    },
+    {
+      "churchName": "Our Lady of Lourdes Parish",
+      "churchAddress": "Central Azucarera de Tarlac (CAT), San Miguel Tarlac",
+      "churchImg": "d13",
+      "latitude": 15.434228671585489,
+      "longitude": 120.6448388773817
+    },
+    {
+      "churchName": "Sto. Cristo Parish",
+      "churchAddress": "Brgy. Burot, Tarlac City",
+      "churchImg": "d14",
+      "latitude": 15.413939601483637,
+      "longitude": 120.60087017942435
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "San Miguel, Tarlac City",
+      "churchImg": "d15",
+      "latitude": 15.428839,
+      "longitude": 120.597667
+    },
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "churchAddress": "Capas, Tarlac",
+      "churchImg": "e1",
+      "latitude": 15.332933911781577,
+      "longitude": 120.58921165913728
+    },
+    {
+      "churchName": "Santo Niño Parish",
+      "churchAddress": "Bamban, Tarlac",
+      "churchImg": "e2",
+      "latitude": 15.273222,
+      "longitude": 120.566571
+    },
+    {
+      "churchName": "Our Lady of Guadalupe Parish",
+      "churchAddress": "Dap-dap Resettlement Area, Bamban Tarlac",
+      "churchImg": "e3",
+      "latitude": 15.279266,
+      "longitude": 120.520431
+    },
+    {
+      "churchName": "Saint Michael the Archangel Parish",
+      "churchAddress": "Anupul, Bamban, Tarlac",
+      "churchImg": "e4",
+      "latitude": 15.295942,
+      "longitude": 120.546938
+    },
+    {
+      "churchName": "Saint Joseph Parish",
+      "churchAddress": "O’Donnell, Capas Tarlac",
+      "churchImg": "e5",
+      "latitude": 15.349240,
+      "longitude": 120.458272
+    },
+    {
+      "churchName": "Our Lady of the Most Holy Rosary Parish",
+      "churchAddress": "Cristo Rey, Capas Tarlac",
+      "churchImg": "e6",
+      "latitude": 15.358334,
+      "longitude": 120.531970
+    },
+    {
+      "churchName": "St. Joseph the Patriarch Parish Church",
+      "churchAddress": "Aranguren, Capas, Tarlac",
+      "churchImg": "e7",
+      "latitude": 15.351189,
+      "longitude": 120.575118
+    },
+    {
+      "churchName": "St. Joseph the worker Parish ",
+      "churchAddress": "San Jose, Capas, Tarlac",
+      "churchImg": "e8",
+      "latitude": 15.319380751356865,
+      "longitude": 120.58661843268527
+    },
+    {
+      "churchName": "Santuario de la Inmaculada Concepcion",
+      "churchAddress": "Concepcion, Tarlac",
+      "churchImg": "f1",
+      "latitude": 15.324235,
+      "longitude": 120.654604
+    },
+    {
+      "churchName": "Sacred Heart Parish",
+      "churchAddress": "Corazon de Jesus Concepcion, Tarlac",
+      "churchImg": "f2",
+      "latitude": 15.357001,
+      "longitude":  120.674828
+    },
+    {
+      "churchName": "Saint Isidore the Farmer Parish",
+      "churchAddress": "Caluluan, Concepcion, Tarlac",
+      "churchImg": "f3",
+      "latitude": 15.380407,
+      "longitude": 120.708242
+    },
+    {
+      "churchName": "San Nicolas De Tolentino Parish",
+      "churchAddress": "San Nicolas, Balas, Concepcion, Tarlac",
+      "churchImg": "f4",
+      "latitude": 15.285122,
+      "longitude": 120.648575
+    },
+    {
+      "churchName": "Nuestra Señora la Divina Pastora Parish",
+      "churchAddress": "Balutu, Concepcion, Tarlac",
+      "churchImg": "f5",
+      "latitude": 15.30322283870117,
+      "longitude": 120.69593432884018
+    },
+    {
+      "churchName": "Our Lady of the Miraculous Medal Parish",
+      "churchAddress": "Tinang, Concepcion, Tarlac",
+      "churchImg": "f6",
+      "latitude": 15.377028,
+      "longitude": 120.652711
+    },
+    {
+      "churchName": "Santa Rosa De Lima Parish",
+      "churchAddress": "Santa Rosa, Concepcion, Tarlac",
+      "churchImg": "f7",
+      "latitude": 15.368031,
+      "longitude": 120.616166
+    },
+    {
+      "churchName": "Hesus Mabuting Pastol Parish",
+      "churchAddress": "Alfonso, Concepcion, Tarlac",
+      "churchImg": "f8",
+      "latitude": 15.329680819090163,
+      "longitude": 120.64134164308359
+    },
+    {
+      "churchName": "Holy Cross Parish",
+      "churchAddress": "Sta. Cruz, Concepcion, Tarlac",
+      "churchImg": "f9",
+      "latitude": 15.340415410103557,
+      "longitude": 120.68616509976077
+    },
+    {
+      "churchName": "St. Catherine of Alexandria Parish",
+      "churchAddress": "Gerona, Tarlac",
+      "churchImg": "g1",
+      "latitude": 15.607871783000057,
+      "longitude": 120.59924314209503
+    },
+    {
+      "churchName": "St. Antoninus Parish",
+      "churchAddress": "Poblacion 1, Pura, Tarlac",
+      "churchImg": "g2",
+      "latitude": 15.62238940670188,
+      "longitude": 120.64927530634027
+    },
+    {
+      "churchName": "San Isidro Parish",
+      "churchAddress": "Estipona, Pura, Tarlac",
+      "churchImg": "g3",
+      "latitude": 15.589316270641312,
+      "longitude": 120.63705933285024
+    },
+    {
+      "churchName": "Shrine of St. Therese of the Child Jesus",
+      "churchAddress": "Ramos, Tarlac",
+      "churchImg": "g4",
+      "latitude": 15.666886992337304,
+      "longitude": 120.64069474579408
+    },
+    {
+      "churchName": "Shrine of St. Josemaria Escriva Parish",
+      "churchAddress": "Magaspac, Gerona, Tarlac",
+      "churchImg": "g5",
+      "latitude": 15.624182930563679,
+      "longitude": 120.59965216721436
+    },
+    {
+      "churchName": "Sta. Cruz Parish",
+      "churchAddress": "Sta. Cruz, Tarlac City",
+      "churchImg": "g6",
+      "latitude": 15.540053437275184,
+      "longitude": 120.59768443468336
+    },
+    {
+      "churchName": "La Sagrada Familia Parish",
+      "churchAddress": "Sulipa, Gerona, Tarlac",
+      "churchImg": "g7",
+      "latitude": 15.607568082468296,
+      "longitude": 120.53438311141055
+    }
+  ]
+}
