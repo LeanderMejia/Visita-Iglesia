@@ -256,6 +256,17 @@ public class ChurchMapFragment extends Fragment implements OnMapReadyCallback, G
             if (bundle.getDouble("NEARBY_LATITUDE") != 0.0) {
                 LatLng nearbyLatLang = new LatLng(bundle.getDouble("NEARBY_LATITUDE"), bundle.getDouble("NEARBY_LONGITUDE"));
                 zoomMarker(nearbyLatLang, BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN), bundle.getString("NEARBY_TITLE"), bundle.getString("NEARBY_SNIPPET"));
+
+                OnBackPressedCallback callback = new OnBackPressedCallback(true) {
+                    @Override
+                    public void handleOnBackPressed() {
+                        bottomNav = getActivity().findViewById(R.id.bottom_nav);
+                        bottomNav.setSelectedItemId(R.id.home);
+                        bottomNav.setActivated(true);
+                        getActivity().getSupportFragmentManager().beginTransaction().replace(R.id.frame_layout, new HomeFragment()).addToBackStack(null).commit();
+                    }
+                };
+                getActivity().getOnBackPressedDispatcher().addCallback(this, callback);
             } else {
                 LatLng churchInfoLatLang = new LatLng(bundle.getDouble("CHURCH_INFO_LATITUDE"), bundle.getDouble("CHURCH_INFO_LONGITUDE"));
                 zoomMarker(churchInfoLatLang, BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE), bundle.getString("CHURCH_INFO_TITLE"), bundle.getString("CHURCH_INFO_SNIPPET"));
